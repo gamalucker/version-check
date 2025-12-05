@@ -2,4 +2,4 @@
 PhotoIcome763,cash,10000
 YourShot388,cash,10000
 SexySpectacles855,hypnoFilm,3
-SnapTreasure468,treasure,treasure1
+SnapTreasure468,treasure_treasure1,1
