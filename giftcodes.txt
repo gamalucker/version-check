@@ -4,4 +4,5 @@ SexySpectacles855,hypnoFilm,3
 SnapCash696,cash,10000
 83519351,treasure_treasure4,1
 PlugAndPlay689,treasure_treasure1,1
+LoveMeTender69,hypnoFilm,5
 # end
