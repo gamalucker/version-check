@@ -5,5 +5,5 @@ Love2Snap65,cash,10000
 83519351,treasure_treasure4,1
 PlugAndPlay689,treasure_treasure1,1
 74296814,treasure_treasure7,1
-SheLovesX8,cash,10000
+SheLovesX8,cash,20000
 # end
