@@ -6,5 +6,5 @@ Love2Snap65,cash,10000
 PlugAndPlay689,treasure_treasure1,1
 74296814,treasure_treasure7,1
 SheLovesX8,cash,20000
-QuickWin5,undevelopedFilm,5
+94151837,undevelopedFilm,50
 # end
