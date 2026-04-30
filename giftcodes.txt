@@ -9,4 +9,9 @@ LoveForX2,undevelopedFilm,10
 94151837,undevelopedFilm,50
 69294822,undevelopedFilm,300
 65151827,undevelopedFilm,50
+# Survivor Geift Codes
+8K4X2Q9M7V5D,cash,20000
+P7D3L9X2C6QA,cash,100000
+5QW8N2R6T9KJ,undevelopedFilm,50
+Z4V7K2M9Q6XB,undevelopedFilm,50
 # end
