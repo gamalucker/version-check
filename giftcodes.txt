@@ -8,6 +8,8 @@ PlugAndPlay689,treasure_treasure1,1
 LoveForX2,undevelopedFilm,10
 94151837,undevelopedFilm,50
 69294822,undevelopedFilm,300
+83417596,undevelopedFilm,1000
+51736409,undevelopedFilm,5000
 # Survivor Gift Codes
 8K4X2Q9M7V5D,cash,20000
 P7D3L9X2C6QA,cash,100000
