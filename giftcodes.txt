@@ -3,7 +3,7 @@ YourShot398,cash,10000
 SexySpectacles855,hypnoFilm,3
 Love2Snap65,cash,10000
 PIKA20,cash,10000
-10KCELEBRATION,cash,10000
+10KCELEBRATION,cash,50000
 YOUARETHEBEST,undevelopedFilm,50
 83519351,treasure_treasure4,1
 PlugAndPlay689,treasure_treasure1,1
