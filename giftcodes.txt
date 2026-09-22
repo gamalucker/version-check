@@ -3,7 +3,6 @@ YourShot398,cash,10000
 SexySpectacles855,hypnoFilm,3
 Love2Snap65,cash,10000
 PIKA20,cash,10000
-10KCELEBRATION,cash,50000
 YOUARETHEBEST,undevelopedFilm,50
 83519351,treasure_treasure4,1
 PlugAndPlay689,treasure_treasure1,1
@@ -13,6 +12,7 @@ LoveForX2,undevelopedFilm,10
 69294822,undevelopedFilm,300
 28473165,undevelopedFilm,1000
 90641827,undevelopedFilm,5000
+AdultGameFest2026,cash,20000
 # Survivor Gift Codes
 8K4X2Q9M7V5D,cash,20000
 P7D3L9X2C6QA,cash,100000
