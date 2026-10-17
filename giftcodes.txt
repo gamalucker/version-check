@@ -13,6 +13,7 @@ LoveForX2,undevelopedFilm,10
 28473165,undevelopedFilm,1000
 90641827,undevelopedFilm,5000
 AdultGameFest2026,cash,20000
+SPASIBO777,undevelopedFilm,100
 # Survivor Gift Codes
 8K4X2Q9M7V5D,cash,20000
 P7D3L9X2C6QA,cash,100000
